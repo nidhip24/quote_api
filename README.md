@@ -135,6 +135,7 @@ curl http://localhost:8080/quotes/random
 curl http://localhost:8080/quotes/search?author=Einstein
 ```
 
+
 ### Search quotes by keyword
 ```bash
 curl http://localhost:8080/quotes/search?keyword=life
